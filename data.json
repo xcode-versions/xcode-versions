@@ -1,1 +1,674 @@
-[]
+[
+  {
+    "datePublished" : "2022-12-12T16:16:00Z",
+    "displayName" : "Xcode 14.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.2\/Xcode_14.2.xip",
+    "fileSize" : 7676134463,
+    "version" : "14.2.0"
+  },
+  {
+    "datePublished" : "2022-12-01T16:32:00Z",
+    "displayName" : "Xcode 14.2 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.2_Release_Candidate\/Xcode_14.2_Release_Candidate.xip",
+    "fileSize" : 7676134463,
+    "version" : "14.2.0-rc"
+  },
+  {
+    "datePublished" : "2022-10-26T20:19:00Z",
+    "displayName" : "Xcode 14.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.1\/Xcode_14.1.xip",
+    "fileSize" : 7571812789,
+    "version" : "14.1.0"
+  },
+  {
+    "datePublished" : "2022-10-23T17:04:00Z",
+    "displayName" : "Xcode 14.1 Release Candidate 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.1_Release_Candidate_2\/Xcode_14.1_Release_Candidate_2.xip",
+    "fileSize" : 7571812789,
+    "version" : "14.1.0-rc.2"
+  },
+  {
+    "datePublished" : "2022-10-12T17:31:00Z",
+    "displayName" : "Xcode 14.1 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.1_Release_Candidate\/Xcode_14.1_Release_Candidate.xip",
+    "fileSize" : 7573076990,
+    "version" : "14.1.0-rc"
+  },
+  {
+    "datePublished" : "2022-09-26T15:42:00Z",
+    "displayName" : "Xcode 14.0.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.0.1\/Xcode_14.0.1.xip",
+    "fileSize" : 7542658481,
+    "version" : "14.0.1"
+  },
+  {
+    "datePublished" : "2022-09-15T18:44:00Z",
+    "displayName" : "Xcode 14.0.1 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14.0.1_Release_Candidate\/Xcode_14.0.1_Release_Candidate.xip",
+    "fileSize" : 7542658481,
+    "version" : "14.0.1-rc"
+  },
+  {
+    "datePublished" : "2022-09-12T14:23:00Z",
+    "displayName" : "Xcode 14",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14\/Xcode_14.xip",
+    "fileSize" : 7546175440,
+    "version" : "14.0.0"
+  },
+  {
+    "datePublished" : "2022-08-29T21:04:00Z",
+    "displayName" : "Xcode 14 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_14_Release_Candidate\/Xcode_14_Release_Candidate.xip",
+    "fileSize" : 7546175440,
+    "version" : "14.0.0-rc"
+  },
+  {
+    "datePublished" : "2022-06-02T13:09:00Z",
+    "displayName" : "Xcode 13.4.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.4.1\/Xcode_13.4.1.xip",
+    "fileSize" : 10783587696,
+    "version" : "13.4.1"
+  },
+  {
+    "datePublished" : "2022-05-16T12:59:00Z",
+    "displayName" : "Xcode 13.4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.4\/Xcode_13.4.xip",
+    "fileSize" : 10784590885,
+    "version" : "13.4.0"
+  },
+  {
+    "datePublished" : "2022-05-11T20:03:00Z",
+    "displayName" : "Xcode 13.4 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.4_Release_Candidate\/Xcode_13.4_Release_Candidate.xip",
+    "fileSize" : 10784590885,
+    "version" : "13.4.0-rc"
+  },
+  {
+    "datePublished" : "2022-04-04T12:32:00Z",
+    "displayName" : "Xcode 13.3.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3.1\/Xcode_13.3.1.xip",
+    "fileSize" : 10838018895,
+    "version" : "13.3.1"
+  },
+  {
+    "datePublished" : "2022-03-09T01:14:00Z",
+    "displayName" : "Xcode 13.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3\/Xcode_13.3.xip",
+    "fileSize" : 10829814724,
+    "version" : "13.3.0"
+  },
+  {
+    "datePublished" : "2022-03-02T19:54:00Z",
+    "displayName" : "Xcode 13.3 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3_Release_Candidate\/Xcode_13.3_Release_Candidate.xip",
+    "fileSize" : 10829814724,
+    "version" : "13.3.0-rc"
+  },
+  {
+    "datePublished" : "2022-02-20T22:59:00Z",
+    "displayName" : "Xcode 13.3 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3_beta_3\/Xcode_13.3_beta_3.xip",
+    "fileSize" : 10813495628,
+    "version" : "13.3.0-beta.3"
+  },
+  {
+    "datePublished" : "2022-02-08T01:37:00Z",
+    "displayName" : "Xcode 13.3 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3_beta_2\/Xcode_13.3_beta_2.xip",
+    "fileSize" : 10790568479,
+    "version" : "13.3.0-beta.2"
+  },
+  {
+    "datePublished" : "2022-01-26T18:00:00Z",
+    "displayName" : "Xcode 13.3 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.3_beta\/Xcode_13.3_beta.xip",
+    "fileSize" : 10768270270,
+    "version" : "13.3.0-beta"
+  },
+  {
+    "datePublished" : "2021-12-16T16:01:00Z",
+    "displayName" : "Xcode 13.2.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.2.1\/Xcode_13.2.1.xip",
+    "fileSize" : 10747154610,
+    "version" : "13.2.1"
+  },
+  {
+    "datePublished" : "2021-12-10T14:35:00Z",
+    "displayName" : "Xcode 13.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.2\/Xcode_13.2.xip",
+    "fileSize" : 10747777272,
+    "version" : "13.2.0"
+  },
+  {
+    "datePublished" : "2021-12-01T19:00:00Z",
+    "displayName" : "Xcode 13.2 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.2_Release_Candidate\/Xcode_13.2_Release_Candidate.xip",
+    "fileSize" : 10747777272,
+    "version" : "13.2.0-rc"
+  },
+  {
+    "datePublished" : "2021-11-15T20:47:00Z",
+    "displayName" : "Xcode 13.2 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.2_beta_2\/Xcode_13.2_beta_2.xip",
+    "fileSize" : 10752795003,
+    "version" : "13.2.0-beta.2"
+  },
+  {
+    "datePublished" : "2021-10-26T20:03:00Z",
+    "displayName" : "Xcode 13.2 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.2_beta\/Xcode_13.2_beta.xip",
+    "fileSize" : 10718891811,
+    "version" : "13.2.0-beta"
+  },
+  {
+    "datePublished" : "2021-10-14T16:29:00Z",
+    "displayName" : "Xcode 13.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13.1\/Xcode_13.1.xip",
+    "fileSize" : 10583734507,
+    "version" : "13.1.0"
+  },
+  {
+    "datePublished" : "2021-09-17T15:36:00Z",
+    "displayName" : "Xcode 13",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13\/Xcode_13.xip",
+    "fileSize" : 10584826269,
+    "version" : "13.0.0"
+  },
+  {
+    "datePublished" : "2021-08-09T21:00:00Z",
+    "displayName" : "Xcode 13 beta 5",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13_beta_5\/Xcode_13_beta_5.xip",
+    "fileSize" : 10374184069,
+    "version" : "13.0.0-beta.5"
+  },
+  {
+    "datePublished" : "2021-07-26T13:57:00Z",
+    "displayName" : "Xcode 13 beta 4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13_beta_4\/Xcode_13_beta_4.xip",
+    "fileSize" : 10389494578,
+    "version" : "13.0.0-beta.4"
+  },
+  {
+    "datePublished" : "2021-07-14T08:37:00Z",
+    "displayName" : "Xcode 13 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13_beta_3\/Xcode_13_beta3.xip",
+    "fileSize" : 10544816010,
+    "version" : "13.0.0-beta.3"
+  },
+  {
+    "datePublished" : "2021-06-23T13:23:00Z",
+    "displayName" : "Xcode 13 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13_beta_2\/Xcode_13_beta_2.xip",
+    "fileSize" : 12326722535,
+    "version" : "13.0.0-beta.2"
+  },
+  {
+    "datePublished" : "2021-06-03T22:13:00Z",
+    "displayName" : "Xcode 13 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_13_beta\/Xcode_13_beta.xip",
+    "fileSize" : 12807783602,
+    "version" : "13.0.0-beta"
+  },
+  {
+    "datePublished" : "2021-06-09T22:27:00Z",
+    "displayName" : "Xcode 12.5.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5.1\/Xcode_12.5.1.xip",
+    "fileSize" : 11793805435,
+    "version" : "12.5.1"
+  },
+  {
+    "datePublished" : "2021-04-12T09:33:00Z",
+    "displayName" : "Xcode 12.5",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5\/Xcode_12.5.xip",
+    "fileSize" : 11792740967,
+    "version" : "12.5.0"
+  },
+  {
+    "datePublished" : "2021-04-12T09:33:00Z",
+    "displayName" : "Xcode 12.5 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5_Release_Candidate\/Xcode_12.5_Release_Candidate.xip",
+    "fileSize" : 11792740967,
+    "version" : "12.5.0-rc"
+  },
+  {
+    "datePublished" : "2021-03-01T18:08:00Z",
+    "displayName" : "Xcode 12.5 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5_beta_3\/Xcode_12.5_beta_3.xip",
+    "fileSize" : 11759734759,
+    "version" : "12.5.0-beta.3"
+  },
+  {
+    "datePublished" : "2021-02-16T00:44:00Z",
+    "displayName" : "Xcode 12.5 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5_beta_2\/Xcode_12.5_beta_2.xip",
+    "fileSize" : 11757120121,
+    "version" : "12.5.0-beta.2"
+  },
+  {
+    "datePublished" : "2021-01-30T06:15:00Z",
+    "displayName" : "Xcode 12.5 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.5_beta\/Xcode_12.5_beta.xip",
+    "fileSize" : 11872421094,
+    "version" : "12.5.0-beta"
+  },
+  {
+    "datePublished" : "2021-01-25T16:09:00Z",
+    "displayName" : "Xcode 12.4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.4\/Xcode_12.4.xip",
+    "fileSize" : 11655535601,
+    "version" : "12.4.0"
+  },
+  {
+    "datePublished" : "2021-01-13T17:01:00Z",
+    "displayName" : "Xcode 12.4 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.4_Release_Candidate\/Xcode_12.4_Release_Candidate.xip",
+    "fileSize" : 11655535601,
+    "version" : "12.4.0-rc"
+  },
+  {
+    "datePublished" : "2020-12-11T17:48:00Z",
+    "displayName" : "Xcode 12.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.3\/Xcode_12.3.xip",
+    "fileSize" : 11632302760,
+    "version" : "12.3.0"
+  },
+  {
+    "datePublished" : "2020-12-04T19:29:00Z",
+    "displayName" : "Xcode 12.3 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.3_Release_Candidate\/Xcode_12.3_Release_Candidate.xip",
+    "fileSize" : 11632302760,
+    "version" : "12.3.0-rc"
+  },
+  {
+    "datePublished" : "2020-11-09T20:24:00Z",
+    "displayName" : "Xcode 12.3 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.3_beta\/Xcode_12.3_beta.xip",
+    "fileSize" : 11572248770,
+    "version" : "12.3.0-beta"
+  },
+  {
+    "datePublished" : "2020-10-25T09:33:00Z",
+    "displayName" : "Xcode 12.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.2\/Xcode_12.2.xip",
+    "fileSize" : 11429769178,
+    "version" : "12.2.0"
+  },
+  {
+    "datePublished" : "2020-10-25T09:04:00Z",
+    "displayName" : "Xcode 12.2 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.2_Release_Candidate\/Xcode_12.2_Release_Candidate.xip",
+    "fileSize" : 11428618390,
+    "version" : "12.2.0-rc"
+  },
+  {
+    "datePublished" : "2020-10-09T22:15:00Z",
+    "displayName" : "Xcode 12.2 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.2_beta_3\/Xcode_12.2_beta_3.xip",
+    "fileSize" : 11413927871,
+    "version" : "12.2.0-beta.3"
+  },
+  {
+    "datePublished" : "2020-09-25T17:09:00Z",
+    "displayName" : "Xcode 12.2 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.2_beta_2\/Xcode_12.2_beta_2.xip",
+    "fileSize" : 11253768273,
+    "version" : "12.2.0-beta.2"
+  },
+  {
+    "datePublished" : "2020-09-16T15:45:00Z",
+    "displayName" : "Xcode 12.2 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.2_beta\/Xcode_12.2_beta.xip",
+    "fileSize" : 11185412181,
+    "version" : "12.2.0-beta"
+  },
+  {
+    "datePublished" : "2020-10-25T08:49:00Z",
+    "displayName" : "Xcode 12.1.1 Release Candidate",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.1.1_Release_Candidate\/Xcode_12.1.1_Release_Candidate.xip",
+    "fileSize" : 11456977862,
+    "version" : "12.1.1-rc"
+  },
+  {
+    "datePublished" : "2020-10-09T15:47:00Z",
+    "displayName" : "Xcode 12.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.1\/Xcode_12.1.xip",
+    "fileSize" : 11308399439,
+    "version" : "12.1.0"
+  },
+  {
+    "datePublished" : "2020-09-21T16:14:00Z",
+    "displayName" : "Xcode 12.0.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12.0.1\/Xcode_12.0.1.xip",
+    "fileSize" : 11210638916,
+    "version" : "12.0.1"
+  },
+  {
+    "datePublished" : "2020-09-10T17:54:00Z",
+    "displayName" : "Xcode 12",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12\/Xcode_12.xip",
+    "fileSize" : 11209653545,
+    "version" : "12.0.0"
+  },
+  {
+    "datePublished" : "2020-08-24T15:51:00Z",
+    "displayName" : "Xcode 12 beta 6",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta_6\/Xcode_12_beta_6.xip",
+    "fileSize" : 11034804018,
+    "version" : "12.0.0-beta.6"
+  },
+  {
+    "datePublished" : "2020-08-15T03:46:00Z",
+    "displayName" : "Xcode 12 beta 5",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta_5\/Xcode_12_beta_5.xip",
+    "fileSize" : 11023984384,
+    "version" : "12.0.0-beta.5"
+  },
+  {
+    "datePublished" : "2020-08-03T15:44:00Z",
+    "displayName" : "Xcode 12 beta 4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta_4\/Xcode_12_beta_4.xip",
+    "fileSize" : 10938597383,
+    "version" : "12.0.0-beta.4"
+  },
+  {
+    "datePublished" : "2020-07-20T16:33:00Z",
+    "displayName" : "Xcode 12 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta_3\/Xcode_12_beta_3.xip",
+    "fileSize" : 10966021639,
+    "version" : "12.0.0-beta.3"
+  },
+  {
+    "datePublished" : "2020-07-06T15:39:00Z",
+    "displayName" : "Xcode 12 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta_2\/Xcode_12_beta_2.xip",
+    "fileSize" : 9479264560,
+    "version" : "12.0.0-beta.2"
+  },
+  {
+    "datePublished" : "2020-06-19T18:00:00Z",
+    "displayName" : "Xcode 12 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_12_beta\/Xcode_12_beta.xip",
+    "fileSize" : 9727104151,
+    "version" : "12.0.0-beta"
+  },
+  {
+    "datePublished" : "2020-08-19T14:39:00Z",
+    "displayName" : "Xcode 11.7",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.7\/Xcode_11.7.xip",
+    "fileSize" : 8150585507,
+    "version" : "11.7.0"
+  },
+  {
+    "datePublished" : "2020-08-21T12:37:00Z",
+    "displayName" : "Xcode 11.7 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.7_beta\/Xcode_11.7_beta.xip",
+    "fileSize" : 8150585507,
+    "version" : "11.7.0-beta"
+  },
+  {
+    "datePublished" : "2020-07-02T19:50:00Z",
+    "displayName" : "Xcode 11.6",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.6\/Xcode_11.6.xip",
+    "fileSize" : 8148095139,
+    "version" : "11.6.0"
+  },
+  {
+    "datePublished" : "2020-06-07T19:52:00Z",
+    "displayName" : "Xcode 11.6 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.6_beta\/Xcode_11.6_beta.xip",
+    "fileSize" : 8148226209,
+    "version" : "11.6.0-beta"
+  },
+  {
+    "datePublished" : "2020-05-06T15:56:00Z",
+    "displayName" : "Xcode 11.5",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.5\/Xcode_11.5.xip",
+    "fileSize" : 8124240037,
+    "version" : "11.5.0"
+  },
+  {
+    "datePublished" : "2020-05-06T15:41:00Z",
+    "displayName" : "Xcode 11.5 GM Seed",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.5_GM_Seed\/Xcode_11.5_GM_Seed.xip",
+    "fileSize" : 8124240037,
+    "version" : "11.5.0-gm.seed"
+  },
+  {
+    "datePublished" : "2020-05-04T18:31:00Z",
+    "displayName" : "Xcode 11.5 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.5_beta_2\/Xcode_11.5_beta_2.xip",
+    "fileSize" : 8123584674,
+    "version" : "11.5.0-beta.2"
+  },
+  {
+    "datePublished" : "2020-04-26T02:13:00Z",
+    "displayName" : "Xcode 11.5 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.5_beta\/Xcode_11.5_beta.xip",
+    "fileSize" : 8122863782,
+    "version" : "11.5.0-beta"
+  },
+  {
+    "datePublished" : "2020-04-09T19:13:00Z",
+    "displayName" : "Xcode 11.4.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.4.1\/Xcode_11.4.1.xip",
+    "fileSize" : 8108773540,
+    "version" : "11.4.1"
+  },
+  {
+    "datePublished" : "2020-03-11T16:43:00Z",
+    "displayName" : "Xcode 11.4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.4\/Xcode_11.4.xip",
+    "fileSize" : 8111919274,
+    "version" : "11.4.0"
+  },
+  {
+    "datePublished" : "2020-03-02T16:49:00Z",
+    "displayName" : "Xcode 11.4 beta 3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.4_beta_3\/Xcode_11.4_beta_3.xip",
+    "fileSize" : 8102285476,
+    "version" : "11.4.0-beta.3"
+  },
+  {
+    "datePublished" : "2020-02-18T20:09:00Z",
+    "displayName" : "Xcode 11.4 beta 2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.4_beta_2\/Xcode_11.4_beta_2.xip",
+    "fileSize" : 8057131168,
+    "version" : "11.4.0-beta.2"
+  },
+  {
+    "datePublished" : "2020-02-05T04:00:00Z",
+    "displayName" : "Xcode 11.4 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.4_beta\/Xcode_11.4_beta.xip",
+    "fileSize" : 8040943774,
+    "version" : "11.4.0-beta"
+  },
+  {
+    "datePublished" : "2019-12-20T15:39:00Z",
+    "displayName" : "Xcode 11.3.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.3.1\/Xcode_11.3.1.xip",
+    "fileSize" : 7843352719,
+    "version" : "11.3.1"
+  },
+  {
+    "datePublished" : "2019-12-03T16:28:00Z",
+    "displayName" : "Xcode 11.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.3\/Xcode_11.3.xip",
+    "fileSize" : 7845187734,
+    "version" : "11.3.0"
+  },
+  {
+    "datePublished" : "2019-11-11T16:28:00Z",
+    "displayName" : "Xcode 11.3 beta",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.3_beta\/Xcode_11.3_beta.xip",
+    "fileSize" : 7831687317,
+    "version" : "11.3.0-beta"
+  },
+  {
+    "datePublished" : "2019-11-08T19:49:00Z",
+    "displayName" : "Xcode 11.2.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.2.1\/Xcode_11.2.1.xip",
+    "fileSize" : 7821856908,
+    "version" : "11.2.1"
+  },
+  {
+    "datePublished" : "2019-10-31T19:00:00Z",
+    "displayName" : "Xcode 11.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.2\/Xcode_11.2.xip",
+    "fileSize" : 7821856919,
+    "version" : "11.2.0"
+  },
+  {
+    "datePublished" : "2019-10-02T15:09:00Z",
+    "displayName" : "Xcode 11.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11.1\/Xcode_11.1.xip",
+    "fileSize" : 7675842712,
+    "version" : "11.1.0"
+  },
+  {
+    "datePublished" : "2019-09-19T19:10:00Z",
+    "displayName" : "Xcode 11",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_11\/Xcode_11.xip",
+    "fileSize" : 7612937462,
+    "version" : "11.0.0"
+  },
+  {
+    "datePublished" : "2019-07-16T14:52:00Z",
+    "displayName" : "Xcode 10.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_10.3\/Xcode_10.3.xip",
+    "fileSize" : 6044005625,
+    "version" : "10.3.0"
+  },
+  {
+    "datePublished" : "2019-04-09T20:42:00Z",
+    "displayName" : "Xcode 10.2.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_10.2.1\/Xcode_10.2.1.xip",
+    "fileSize" : 6055671032,
+    "version" : "10.2.1"
+  },
+  {
+    "datePublished" : "2019-03-19T20:21:00Z",
+    "displayName" : "Xcode 10.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_10.2\/Xcode_10.2.xip",
+    "fileSize" : 6055736566,
+    "version" : "10.2.0"
+  },
+  {
+    "datePublished" : "2018-10-25T16:06:00Z",
+    "displayName" : "Xcode 10.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_10.1\/Xcode_10.1.xip",
+    "fileSize" : 6047806709,
+    "version" : "10.1.0"
+  },
+  {
+    "datePublished" : "2018-09-14T14:27:00Z",
+    "displayName" : "Xcode 10",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_10\/Xcode_10.xip",
+    "fileSize" : 5876954359,
+    "version" : "10.0.0"
+  },
+  {
+    "datePublished" : "2018-06-08T15:22:00Z",
+    "displayName" : "Xcode 9.4.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.4.1\/Xcode_9.4.1.xip",
+    "fileSize" : 5271270648,
+    "version" : "9.4.1"
+  },
+  {
+    "datePublished" : "2018-05-21T19:18:00Z",
+    "displayName" : "Xcode 9.4",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.4\/Xcode_9.4.xip",
+    "fileSize" : 5271139574,
+    "version" : "9.4.0"
+  },
+  {
+    "datePublished" : "2018-05-09T16:21:00Z",
+    "displayName" : "Xcode 9.3.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.3.1\/Xcode_9.3.1.xip",
+    "fileSize" : 5235160313,
+    "version" : "9.3.1"
+  },
+  {
+    "datePublished" : "2018-03-23T13:47:00Z",
+    "displayName" : "Xcode 9.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.3\/Xcode_9.3.xip",
+    "fileSize" : 5235094775,
+    "version" : "9.3.0"
+  },
+  {
+    "datePublished" : "2017-11-30T21:00:00Z",
+    "displayName" : "Xcode 9.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.2\/Xcode_9.2.xip",
+    "fileSize" : 5478692088,
+    "version" : "9.2.0"
+  },
+  {
+    "datePublished" : "2017-10-31T16:24:00Z",
+    "displayName" : "Xcode 9.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.1\/Xcode_9.1.xip",
+    "fileSize" : 5442909430,
+    "version" : "9.1.0"
+  },
+  {
+    "datePublished" : "2017-10-16T14:34:00Z",
+    "displayName" : "Xcode 9.0.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9.0.1\/Xcode_9.0.1.xip",
+    "fileSize" : 5442843891,
+    "version" : "9.0.1"
+  },
+  {
+    "datePublished" : "2017-09-19T15:22:00Z",
+    "displayName" : "Xcode 9",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_9\/Xcode_9.xip",
+    "fileSize" : 5370295544,
+    "version" : "9.0.0"
+  },
+  {
+    "datePublished" : "2017-06-07T11:37:00Z",
+    "displayName" : "Xcode 8.3.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.3.3\/Xcode_8.3.3.xip",
+    "fileSize" : 4522587381,
+    "version" : "8.3.3"
+  },
+  {
+    "datePublished" : "2017-04-18T19:09:00Z",
+    "displayName" : "Xcode 8.3.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.3.2\/Xcode_8.3.2.xip",
+    "fileSize" : 4494079225,
+    "version" : "8.3.2"
+  },
+  {
+    "datePublished" : "2017-03-27T14:46:00Z",
+    "displayName" : "Xcode 8.3",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.3\/Xcode_8.3.xip",
+    "fileSize" : 4505613560,
+    "version" : "8.3.0"
+  },
+  {
+    "datePublished" : "2016-12-19T17:57:00Z",
+    "displayName" : "Xcode 8.2.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.2.1\/Xcode_8.2.1.xip",
+    "fileSize" : 4527043832,
+    "version" : "8.2.1"
+  },
+  {
+    "datePublished" : "2016-12-08T14:15:00Z",
+    "displayName" : "Xcode 8.2",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.2\/Xcode_8.2.xip",
+    "fileSize" : 4526912760,
+    "version" : "8.2.0"
+  },
+  {
+    "datePublished" : "2016-10-27T21:06:00Z",
+    "displayName" : "Xcode 8.1",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8.1\/Xcode_8.1.xip",
+    "fileSize" : 4446762222,
+    "version" : "8.1.0"
+  },
+  {
+    "datePublished" : "2016-09-13T17:35:00Z",
+    "displayName" : "Xcode 8",
+    "downloadURL" : "https:\/\/download.developer.apple.com\/Developer_Tools\/Xcode_8\/Xcode_8.xip",
+    "fileSize" : 4415370488,
+    "version" : "8.0.0"
+  }
+]
